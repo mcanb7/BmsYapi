@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<!-- Document Meta
+============================================= -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--IE Compatibility Meta-->
+<meta name="author" content="zytheme" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Html5 Construction Landing Page">
+<link href="assets/images/favicon/favicon.ico" rel="icon">
+
+<!-- Fonts
+============================================= -->
+<link href="https://fonts.googleapis.com/css?family=Poppins:300i,400,400i,500,600,700,800%7CLora:400,400i,700,700i" rel="stylesheet">
+
+<!-- Stylesheets
+============================================= -->
+<link href="assets/css/external.css" rel="stylesheet">
+<link href="assets/css/cons.css" rel="stylesheet">
+<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/css/style.css" rel="stylesheet">
+
+
+
+
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+<!--[if lt IE 9]>
+<script src="assets/js/html5shiv.js"></script>
+<script src="assets/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- Document Title
+============================================= -->
+<title>BMS YAPI OTOMASYON</title>
+</head>
+
+<body class="body-scroll">
+<!-- Document Wrapper
+============================================= -->
+<div id="wrapper" class="wrapper clearfix">
+
+<!-- Header
+============================================= -->
+<header id="navbar-spy" class="header header-1 header-transparent header-fixed">
+
+    <nav id="primary-menu" class="navbar navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+
+        <a class="logo" href="index.html">
+        <img class="logo-dark" src="assets/images/logo/bmsyapilogosiyah.png" alt="Logo">
+        <img class="logo-light" src="assets/images/logo/bmsyapilogo.png" alt="Logo">
+        </a>
+            </div>
+            <div class="collapse navbar-collapse pull-right" id="navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left nav-split nav-pos-right">
+                    <li><a data-scroll="scrollTo" href="index.html">Ana Sayfa</a>
+                    </li>
+                    
+                    </li>
+                    <li  class="active"><a data-scroll="scrollTo" href="ürünlerimiz.html.html">Ürünler</a>
+                    </li>
+                    <li><a data-scroll="scrollTo" href="referanslar.html">Referanslar</a>
+                    </li>
+                    <li><a data-scroll="scrollTo" href="iletisim.html">İLETİŞİM</a>
+                    </li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </nav>
+</header>
+
+<!-- Hero #12
+============================================= -->
+<section id="hero" class="section hero hero-12 text-center bg-overlay bg-overlay-dark bg-parallax fullscreen">
+    <div class="bg-section">
+        <img src="assets/images/hero/2.jpg" alt="Background" />
+    </div>
+    
+</section>
+<!-- #hero12 end -->
+
+
+<div id="egitimkadrocuk">
+<div class="egitimkadro">
+	<a href="fotosellikapi.html">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-12"></div>
+        <div class="col-md-4">
+			<h5>Fotoselli Kapı</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/fotoselli.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="hizlipvckapi.html">
+        <div class="col-md-4">
+			<h5>Hızlı Pvc Kapı</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/hizlipvc.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="otomatikkepenk.html">
+        <div class="col-md-4">
+			<h5>Otomatik Kepenk</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/otomatikkepenk.jpg">
+            </div>
+        </div>
+    </a>
+        <div class="col-md-2"></div>
+    </div>
+
+</div>
+	
+  </div>
+<div class="egitimkadro2">
+    <div class="container">
+    <div class="row">
+            <a href="seksiyonelkapi.html">
+        <div class="col-md-4">
+			<h5>Seksiyonel Kapı</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/seksiyonal.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="otomatikpanjur.html">
+        <div class="col-md-4">
+			<h5>Otomatik Panjur</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/otomatikpanjur.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="otomatikdönerkapi.html">
+        <div class="col-md-4">
+			<h5>Otomatik Döner Kapı</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/donerkapi.jpg">
+            </div>
+        </div>
+    </a>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+
+  </div>
+  <div class="egitimkadro4">
+    
+	  <div class="container">
+    <div class="row">
+        <a href="kollubariyer.html">
+        <div class="col-md-4">
+			<h5>Kollu Bariyer</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/kollubariyer.jpg">
+            </div>
+        </div>
+    </a>
+        <div class="col-md-8"></div>
+        <a href="akordiyonkapi.html">
+        <div class="col-md-4">
+			<h5>Akordiyon Kapı</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/akordiyonkapi.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="pvcseritperde.html">
+        <div class="col-md-4">
+			<h5>Pvc Şerit Perde</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/pvcseritperde.jpg">
+            </div>
+        </div>
+    </a>
+    </div>
+</div>
+    </a>
+	</div>
+  <div class="egitimkadro5">
+	  <div class="container">
+    <div class="row">
+        <div class="col-md-12"></div>
+        <a href="teleskobikbahcekapisi.html">
+        <div class="col-md-4">
+			<h5>Teleskobik Bahçe Kapısı</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/teleskobikkapi.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="yüklemerampasi.html">
+		<div class="col-md-4">
+			<h5>Yükleme Rampası</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/yuklemerampasi.jpg">
+            </div>
+        </div>
+    </a>
+    <a href="pergoletente.html">
+        <div class="col-md-4">
+			<h5>Pergole Tente</h5>
+            <div class="our-team">
+                <img src="assets/images/urunler/pergoletente.jpg">
+            </div>
+        </div>
+    </a>
+        
+    </div>
+</div>
+	</div>
+</div>
+</div>
+</a>
+	</div>
+    <footer id="footer9" class="footer footer-5 footer-8 footer-9 bg-white text-center-xs pt-0 pb-0">
+        <div class="footer-widget">
+            <div class="container">
+                <div class="row widget--boxes text-center">
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="widget--info-box">
+                            <i class="ti-home"></i>
+                            <h4>Adres</h4>
+                            <p>8 Şubat, 64047 nolu Cade No:135, 27590<br>Şehitkamil/Gaziantep</p>
+                        </div>
+                        <!-- .widget-info-box end -->
+                    </div>
+                    <!-- .col-md-4 end -->
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="widget--info-box">
+                            <i class="ti-mobile"></i>
+                            <h4>Telefon</h4>
+                            <p>0342 329 73 70</p>
+                        </div>
+                        <!-- .widget-info-box end -->
+                    </div>
+                    <!-- .col-md-4 end -->
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="widget--info-box">
+                            <i class="ti-email"></i>
+                            <h4>E-mail</h4>
+                            <p>info@bmsyapiotomasyon.com</p>
+                        </div>
+                        <!-- .widget-info-box end -->
+                    </div>
+                    <!-- .col-md-4 end -->
+                </div>
+                <!-- .row end -->
+            </div>
+            <!-- .container end -->
+        </div>
+        <!-- .footer-widget end -->
+        <div class="footer-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <div class="widget--copyright">
+                            <span>&copy; Copright © 2021 BMS YAPI OTOMASYON Tüm Hakları Saklıdır.</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- .row end -->
+            </div>
+            <!-- .container end -->
+        </div>
+        <!-- .footer bar end -->
+    </footer>
+    <!-- #footer9 end -->
+    
+    </div>
+    <!-- #wrapper end -->
+    
+    <!-- Footer Scripts
+    ============================================= -->
+    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/functions.js"></script>
+    </body>
+    
+    </html>
