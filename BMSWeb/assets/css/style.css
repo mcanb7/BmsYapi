@@ -32,7 +32,7 @@ body {
     padding: 100px 0px;
     -webkit-perspective: 1000;
     perspective: 1000;
-	margin-top:-150px;
+	margin-top:-165px;
 }
 
 
@@ -3967,7 +3967,7 @@ li a:hover,
 .fotosel{
 	z-index: 3;
 	width: 100%;
-	height: 800px;
+	height: auto;
 	margin-bottom: 20%;
 	
 }
@@ -4004,28 +4004,28 @@ li a:hover,
 .hizlipvc{
 	z-index: 5;
 	width: 100%;
-	height: 800px;
+	height: auto;
 	margin-bottom: 15%;
 	
 }
 .kollubariyer{
 	
 	width: 100%;
-	height: 800px;
+	height: auto;
 	margin-bottom: 20%;
 	
 }
 .pergole{
 	z-index: 5;
 	width: 100%;
-	height: 800px;
+	height: auto;
 	margin-bottom: 18%;
 	
 }
 .teleskobik{
 	z-index: 5;
 	width: 100%;
-	height: 800px;
+	height: auto;
 	margin-bottom: 12%;
 	
 }
