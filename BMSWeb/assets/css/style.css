@@ -595,7 +595,17 @@ p {
 	background-repeat:no-repeat;
 	background-image:url("../images/hero/müsteri3.jpg") !important;
 }
+
+
 }
+
+@media only screen and (min-width:768px){
+	.navbar2{
+		background-image:url("../images/hero/21.jpg") !important;
+	}
+	
+}
+
 
 
 @media only screen and (min-width: 968px) and (max-width: 1359px){
@@ -607,6 +617,8 @@ p {
 	background-repeat:no-repeat;
 	background-image:url("../images/hero/müsteri2.jpg") !important;
 }
+
+ustmenu
 }
 
 
@@ -617,13 +629,14 @@ p {
 	.müsteri2{
 	margin-top:195px;
 	width: auto;
-	height: 310px;
+	height: 500px;
 	object-fit: fill;
 	background-position: center; 
 	background-repeat:no-repeat;
-	background-image:url("../images/hero/perg.jpg") !important;
+	background-image:url("../images/hero/bmsanasayfa2.jpg") !important;
 	margin-bottom:-150px;
 }
+
 }
 
 
@@ -4024,19 +4037,22 @@ li a:hover,
 	flex-wrap:wrap;
 	
 }
+.box img{
+	width:170px;
+}
 .box1 {      
 	position: relative;
-    right: 75px;
+    right: 85px;
 	flex: 50%;
-	max-width: 40%;
+	max-width: 50%;
     transition: 0.5s;
 }
 
 .box2 {
 	position: relative;
-    left: 70px;
+    left: -30px;
 	flex: 50%;
-	max-width: 40%;
+	max-width: 50%;
     transition: 0.5s;
 }
 
@@ -4063,6 +4079,13 @@ li a:hover,
 	margin-top: 0px;
 	text-align: center;
 }
+
+.fotoselyazi2 h5{
+	z-index: 3;
+	margin-top: 15px;
+	text-align: center;
+}
+
 .fotoselyazi2 p{
 	z-index: 3;
 	font-size: medium;
